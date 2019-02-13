@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">BasicCalculator</string>
+
+    <!-- Calculator strings-->
+    <string name="calculator_page_title">Calculator</string>
+    <string name="calculator_page_common_title">Common</string>
+    <string name="calculator_page_scientific_title">Scientific</string>
+
+    <string name="calculator_page_button_one">1</string>
+    <string name="calculator_page_button_two">2</string>
+    <string name="calculator_page_button_three">3</string>
+    <string name="calculator_page_button_four">4</string>
+    <string name="calculator_page_button_five">5</string>
+    <string name="calculator_page_button_six">6</string>
+    <string name="calculator_page_button_seven">7</string>
+    <string name="calculator_page_button_eight">8</string>
+    <string name="calculator_page_button_nine">9</string>
+    <string name="calculator_page_button_brackets">()</string>
+    <string name="calculator_page_button_dot">.</string>
+    <string name="calculator_page_button_zero">0</string>
+    <string name="calculator_page_button_divide">/</string>
+    <string name="calculator_page_button_minus">-</string>
+    <string name="calculator_page_button_plus">+</string>
+    <string name="calculator_page_button_multiply">*</string>
+    <string name="calculator_page_button_equal">=</string>
+    <string name="calculator_page_button_clear">C</string>
+    <string name="calculator_page_button_percent">%</string>
 </resources>
